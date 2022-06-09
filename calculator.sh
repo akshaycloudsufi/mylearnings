@@ -1,8 +1,10 @@
 #! /bin/bash
 
 echo "Hello a simple calculator made by Akshay Jindal"
+echo
 calc() {
 echo "what you want to perform select from below options"
+echo
 echo "1: add
 2: subtract
 3: multiply
